@@ -56,11 +56,11 @@ Data Analysis
 
 Used Box Plots and Scatter Plots to visualize feature distribution and class separability.
 
-Scatter Plot:
+## Scatter Plot:
 <img width="1167" height="660" alt="scatter plot" src="https://github.com/user-attachments/assets/f49f185a-d8e1-48f7-87f8-9f8cb3b589d3" />
 
 
-Box Plot:
+## Box Plot:
 <img width="861" height="472" alt="boxplot" src="https://github.com/user-attachments/assets/719144c3-a13d-4947-bfd1-5834ed329981" />
 
 
@@ -74,16 +74,16 @@ K-Nearest Neighbors (KNN)
 
 📊 Results
 Model	Accuracy	Result Image
-SVM	~85%	<img width="675" height="197" alt="Grid Search" src="https://github.com/user-attachments/assets/bca6bda2-1b8f-48fc-8ebb-daae8fe88c4b" />
+## SVM	~55%	<img width="675" height="197" alt="Grid Search" src="https://github.com/user-attachments/assets/bca6bda2-1b8f-48fc-8ebb-daae8fe88c4b" />
 
 
-Random Forest	~82%	<img width="555" height="217" alt="Random forest" src="https://github.com/user-attachments/assets/c2dd4f35-9f49-4b98-b4d5-719d95eb7f0f" />
+## Random Forest	~60%	<img width="555" height="217" alt="Random forest" src="https://github.com/user-attachments/assets/c2dd4f35-9f49-4b98-b4d5-719d95eb7f0f" />
 
 
-KNN	~78%	<img width="461" height="171" alt="KNN report" src="https://github.com/user-attachments/assets/8dfb89ed-8a53-4e5b-b7f0-e090ed362e10" />
+## KNN	~55%	<img width="461" height="171" alt="KNN report" src="https://github.com/user-attachments/assets/8dfb89ed-8a53-4e5b-b7f0-e090ed362e10" />
 
 
-Overall Performance:
+## Overall Performance:
 <img width="733" height="168" alt="overall" src="https://github.com/user-attachments/assets/a5b9df30-db8e-48f0-b3ac-543abfba4a2c" />
 
 
