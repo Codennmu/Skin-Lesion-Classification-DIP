@@ -92,7 +92,6 @@ Model	Accuracy	Result Image
 🚀 How to Run
 1. Clone the Repository
 git clone https://github.com/https://github.com/Codennmu/Skin-Lesion-Classification-DIP.git
-cd your-repo-name
 2. Install Requirements
 pip install numpy scikit-image scikit-learn pillow matplotlib pandas tabulate
 3. Run the Pipeline
