@@ -38,7 +38,6 @@ The focus is on traditional **Digital Image Processing techniques** learned in t
 
 ## 📂 Repository Structure
 
-```text
 Segregation.py      # Dataset organization based on diagnosis
 Task1-4.py         # HOG feature extraction + data split + visualization
 Task5.py           # Model training and evaluation
