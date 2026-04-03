@@ -91,7 +91,7 @@ Model	Accuracy	Result Image
 
 🚀 How to Run
 1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/https://github.com/Codennmu/Skin-Lesion-Classification-DIP.git
 cd your-repo-name
 2. Install Requirements
 pip install numpy scikit-image scikit-learn pillow matplotlib pandas tabulate
@@ -125,7 +125,3 @@ This project demonstrates the practical application of Digital Image Processing 
 
 
 ---
-
-If you want, I can also make a **version with smaller inline images side-by-side and color-coded tables**, so it looks **professional for a GitHub portfolio**.  
-
-Do you want me to do that next?
